@@ -4,6 +4,7 @@ PyTorch is a machine learning framework based on the Torch library, used for app
 **Topics**
 - [Basics of PyTorch](https://github.com/regmi-saugat/PyTorch_Basics/blob/main/Notebooks/Basics.ipynb)
 - [Linear Regression](https://github.com/regmi-saugat/PyTorch_Basics/blob/main/Notebooks/Linear%20Regression.ipynb)
+- [Logistic Regression](https://github.com/regmi-saugat/PyTorch_Basics/blob/main/Notebooks/Logistic%20Regression.ipynb)
 
 **Resources:**
 - [Jovian](https://www.jovian.com/)
